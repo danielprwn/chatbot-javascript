@@ -1,7 +1,7 @@
 # JavaScript Voice Chatbot Project.
 
 
-✔ Calculation of budget revenues and expenses.
+✔ Talk with voice chatbot Maria.
 
 ## Technologies
 ✅ HTML ✅ CSS 🟨 JavaScript 
